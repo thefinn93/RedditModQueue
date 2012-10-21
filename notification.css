@@ -1,0 +1,67 @@
+#reports {
+    border: 1px solid black;
+    padding: 0 4px;
+    background-color: #F6E69F;
+    border-radius: 7px;
+}
+#spam {
+    background-image: url(icon/sprite.png);
+    background-position: 0px -42px;
+    background-repeat: repeat;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    border: 1px solid #666;
+    padding: 1px 6px;
+    font-size: 10px;
+    font-weight: normal;
+    line-height: 20px;
+    border-radius: 3px;
+    outline-style: none;
+    cursor: pointer;
+}
+
+#remove {
+    background-image: url(icon/sprite.png);
+    background-position: 0px -48px;
+    background-repeat: repeat;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    border: 1px solid #666;
+    padding: 1px 6px;
+    font-size: 10px;
+    font-weight: normal;
+    line-height: 20px;
+    border-radius: 3px;
+    outline-style: none;
+    cursor: pointer;
+}
+
+#approve  {
+    background-image: url(icon/sprite.png);
+    background-position: 0px -126px;
+    background-repeat: repeat;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    border: 1px solid #666;
+    padding: 1px 6px;
+    font-size: 10px;
+    font-weight: normal;
+    line-height: 20px;
+    border-radius: 3px;
+    outline-style: none;
+    cursor: pointer;
+}
+
+#comment {
+    font-size: small;
+}
+
+body, td, a  {
+    font: normal x-small verdana,arial,helvetica,sans-serif;
+}
+a   {
+    text-decoration: none;
+}
+b   {
+    font-size: 10pt;
+}
